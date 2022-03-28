@@ -1,0 +1,43 @@
+body{
+    background-image: url('ba.jpg');
+    border: 5px solid rgb(255, 0, 0);
+}
+.foto{
+    font-size: 1px;
+}
+.paragrafo{
+    font-size: 70px;
+    border: 5px solid rgb(255, 0, 0);
+    color:#ff0800;
+}
+.dias{
+    color: #ff0000;
+}
+.dia{
+    color:white;
+    
+}
+.git{
+    color:#ffb7af;
+}
+.soft{
+    color:#ffb7af;
+}
+.segunda{
+    color:rgb(255, 0, 0);
+}
+.terça{
+    color:rgb(243, 0, 0);
+}
+.quarta{
+    color:rgb(255, 0, 0);
+}
+.seg{
+    color:white;
+}
+.ter{
+    color:white;
+}
+.qua{
+    color:white;
+}

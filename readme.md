@@ -1,0 +1,1 @@
+aprendizado focado e designado em um treinamento para programadores
